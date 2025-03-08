@@ -1,0 +1,3 @@
+BUGID,DESCRIPTION,BRANCH,DEVELOPER_NAME,BUG_PRIORITY,REPOSITORY_PATH,GITHUBURL
+234,File name should contain date in header,br_1,g.cohen,3,./REPO1,https://github.com/Linoyona/linux_course_work
+235,Fix bug in login screen,br_2,g.cohen,2,./REPO1,https://github.com/Linoyona/linux_course_work
