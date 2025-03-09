@@ -1,0 +1,32 @@
+2025-03-09 02:06:11 - Starting plant data processing with CSV file: plants_data.csv
+2025-03-09 02:06:11 - Creating new virtual environment at ../plant_venv
+2025-03-09 02:06:13 - Activating virtual environment
+2025-03-09 02:06:13 - Checking and installing required packages
+2025-03-09 02:06:24 - Processing plant data from CSV file
+2025-03-09 02:06:24 - Processing plant: Rose
+2025-03-09 02:06:24 - Running Python script for Rose with params: height=50 55 60 65 70, leaf_count=35 40 45 50 55, dry_weight=2.0 2.2 2.5 2.7 3.0
+2025-03-09 02:06:25 - Python script executed successfully for Rose
+2025-03-09 02:06:25 - Moving generated files to Rose directory
+2025-03-09 02:06:25 - Processing completed for Rose
+2025-03-09 02:06:25 - Processing plant: Tulip
+2025-03-09 02:06:25 - Running Python script for Tulip with params: height=30 35 40 42, leaf_count=12 15 18 20, dry_weight=1.5 1.6 1.7 1.8
+2025-03-09 02:06:25 - ERROR: Python script failed for Tulip
+2025-03-09 02:06:25 - All plant data processing completed successfully
+2025-03-09 02:06:25 - Virtual environment deactivated
+2025-03-09 02:15:19 - Starting plant data processing with CSV file: plants_data.csv
+2025-03-09 02:15:19 - Virtual environment already exists at ../plant_venv
+2025-03-09 02:15:19 - Activating virtual environment
+2025-03-09 02:15:19 - Checking and installing required packages
+2025-03-09 02:15:20 - Creating temporary modified Python script
+2025-03-09 02:15:20 - Processing plant data from CSV file
+2025-03-09 02:15:20 - Processing plant: Rose
+2025-03-09 02:15:20 - Running Python script for Rose with params: height=50 55 60 65 70, leaf_count=35 40 45 50 55, dry_weight=2.0 2.2 2.5 2.7 3.0, output_dir=Rose
+2025-03-09 02:15:20 - Python script executed successfully for Rose
+2025-03-09 02:15:20 - Files saved directly to Rose directory
+2025-03-09 02:15:20 - Processing completed for Rose
+2025-03-09 02:15:20 - Processing plant: Tulip
+2025-03-09 02:15:20 - Running Python script for Tulip with params: height=30 35 40 42, leaf_count=12 15 18 20, dry_weight=1.5 1.6 1.7 1.8, output_dir=Tulip
+2025-03-09 02:15:21 - ERROR: Python script failed for Tulip
+2025-03-09 02:15:21 - Removing temporary Python script
+2025-03-09 02:15:21 - All plant data processing completed successfully
+2025-03-09 02:15:21 - Virtual environment deactivated
