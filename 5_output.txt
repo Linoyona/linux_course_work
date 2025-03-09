@@ -1,0 +1,7 @@
+==== CSV Management Script Started ====
+Date: Sun Mar  9 10:21:02 IST 2025
+CSV file animals_data.csv has been created with headers.
+New row added to animals_data.csv: 1/8,PF,M,7
+Displaying CSV data with row index:
+Index,Date collected,Species,Sex,Weight
+1,1/8,PF,M,7
